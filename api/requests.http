@@ -1,0 +1,9 @@
+GET http://localhost:8000/demo/
+
+###
+
+POST http://localhost:8000/demo/
+
+###
+
+GET http://localhost:8000/weapon/3/
